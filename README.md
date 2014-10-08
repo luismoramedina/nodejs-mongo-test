@@ -12,7 +12,7 @@ Instructions
   npm install mongodb
 
 - The database must have this fields at least:
-- 
+
   user
   access_token
 
